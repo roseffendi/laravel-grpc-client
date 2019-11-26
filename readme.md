@@ -1,6 +1,6 @@
 # Laravel GRPC Client
 
-This repository contain Laravel implementation of grpc client sample.
+This repository contain Laravel implementation of grpc client sample. Laravel grpc server sample can be found at https://github.com/roseffendi/laravel-grpc-server
 
 ### Setup
 
